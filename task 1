@@ -1,0 +1,45 @@
+Task 1: ADR Identification Basics
+
+
+
+Patient: Female, 45 years old
+
+
+1. Suspected drug
+
+Amoxicillin is the leading suspected drug.
+
+
+2. Clinical assessment
+
+The patient presents with rash, itching, nausea and dizziness. 
+Amoxicillin was started five days ago, and symptoms began around Day −2, approximately three days after treatment started.
+
+
+3. Reasoning
+
+Temporal relationship: Symptoms developed after amoxicillin was initiated.
+
+Possible hypersensitivity: Rash and itching are consistent with a possible allergic reaction to amoxicillin.
+
+Alternative medication: Paracetamol is also listed, but the case does not establish a clear temporal association between its use and symptom onset.
+It cannot be completely excluded.
+
+
+4. Preliminary causality assessment
+
+The case suggests a suspected amoxicillin-associated adverse drug reaction, possibly a hypersensitivity reaction. However, the available information is insufficient to confirm causality. 
+Further assessment would require exact medication timings, doses, allergy history, other medications and clinical findings.
+
+
+5. Safety considerations
+
+Rash, itching and dizziness can sometimes indicate a serious allergic reaction. 
+If this is a real patient, urgent medical assessment is warranted, especially if breathing difficulties, facial or tongue swelling, fainting or rapidly worsening symptoms occur. 
+Deliberate re-exposure should not be used to test the suspected reaction.
+
+
+Conclusion
+
+Amoxicillin is the most likely suspected drug based on the reported timeline and symptoms. 
+This is a preliminary assessment, not a confirmed diagnosis.
